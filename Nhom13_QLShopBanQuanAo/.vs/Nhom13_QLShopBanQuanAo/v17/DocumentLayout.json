@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\Nhom13_QL_Shop_Ban_QuanAo\\Nhom13_QLShopBanQuanAo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8F27E-AD5D-4960-8E16-668A12E52CFD}|Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo.csproj|d:\\.net\\nhom13_ql_shop_ban_quanao\\nhom13_qlshopbanquanao\\nhom13_qlshopbanquanao\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6A8F27E-AD5D-4960-8E16-668A12E52CFD}|Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo.csproj|solutionrelative:nhom13_qlshopbanquanao\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8F27E-AD5D-4960-8E16-668A12E52CFD}|Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo.csproj|d:\\.net\\nhom13_ql_shop_ban_quanao\\nhom13_qlshopbanquanao\\nhom13_qlshopbanquanao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A8F27E-AD5D-4960-8E16-668A12E52CFD}|Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo.csproj|solutionrelative:nhom13_qlshopbanquanao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8F27E-AD5D-4960-8E16-668A12E52CFD}|Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo.csproj|d:\\.net\\nhom13_ql_shop_ban_quanao\\nhom13_qlshopbanquanao\\nhom13_qlshopbanquanao\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A8F27E-AD5D-4960-8E16-668A12E52CFD}|Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo.csproj|solutionrelative:nhom13_qlshopbanquanao\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8F27E-AD5D-4960-8E16-668A12E52CFD}|Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo.csproj|d:\\.net\\nhom13_ql_shop_ban_quanao\\nhom13_qlshopbanquanao\\nhom13_qlshopbanquanao\\forms\\baocao_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A8F27E-AD5D-4960-8E16-668A12E52CFD}|Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo.csproj|solutionrelative:nhom13_qlshopbanquanao\\forms\\baocao_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8F27E-AD5D-4960-8E16-668A12E52CFD}|Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo.csproj|d:\\.net\\nhom13_ql_shop_ban_quanao\\nhom13_qlshopbanquanao\\nhom13_qlshopbanquanao\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6A8F27E-AD5D-4960-8E16-668A12E52CFD}|Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo.csproj|solutionrelative:nhom13_qlshopbanquanao\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8F27E-AD5D-4960-8E16-668A12E52CFD}|Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo.csproj|d:\\.net\\nhom13_ql_shop_ban_quanao\\nhom13_qlshopbanquanao\\nhom13_qlshopbanquanao\\forms\\baocao_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6A8F27E-AD5D-4960-8E16-668A12E52CFD}|Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo.csproj|solutionrelative:nhom13_qlshopbanquanao\\forms\\baocao_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\Nhom13_QL_Shop_Ban_QuanAo\\Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo\\Program.cs",
+              "RelativeDocumentMoniker": "Nhom13_QLShopBanQuanAo\\Program.cs",
+              "ToolTip": "D:\\.net\\Nhom13_QL_Shop_Ban_QuanAo\\Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo\\Program.cs",
+              "RelativeToolTip": "Nhom13_QLShopBanQuanAo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:04:28.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\.net\\Nhom13_QL_Shop_Ban_QuanAo\\Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo\\Login.cs",
+              "RelativeDocumentMoniker": "Nhom13_QLShopBanQuanAo\\Login.cs",
+              "ToolTip": "D:\\.net\\Nhom13_QL_Shop_Ban_QuanAo\\Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo\\Login.cs",
+              "RelativeToolTip": "Nhom13_QLShopBanQuanAo\\Login.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:04:00.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\.net\\Nhom13_QL_Shop_Ban_QuanAo\\Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo\\Login.cs",
+              "RelativeDocumentMoniker": "Nhom13_QLShopBanQuanAo\\Login.cs",
+              "ToolTip": "D:\\.net\\Nhom13_QL_Shop_Ban_QuanAo\\Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo\\Login.cs [Design]",
+              "RelativeToolTip": "Nhom13_QLShopBanQuanAo\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:03:58.61Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "D:\\.net\\Nhom13_QL_Shop_Ban_QuanAo\\Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Nhom13_QLShopBanQuanAo\\MainMenu.cs",
+              "ToolTip": "D:\\.net\\Nhom13_QL_Shop_Ban_QuanAo\\Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo\\MainMenu.cs [Design]",
+              "RelativeToolTip": "Nhom13_QLShopBanQuanAo\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:57:58.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaoCao_ThongKe.cs",
+              "DocumentMoniker": "D:\\.net\\Nhom13_QL_Shop_Ban_QuanAo\\Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo\\Forms\\BaoCao_ThongKe.cs",
+              "RelativeDocumentMoniker": "Nhom13_QLShopBanQuanAo\\Forms\\BaoCao_ThongKe.cs",
+              "ToolTip": "D:\\.net\\Nhom13_QL_Shop_Ban_QuanAo\\Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo\\Forms\\BaoCao_ThongKe.cs",
+              "RelativeToolTip": "Nhom13_QLShopBanQuanAo\\Forms\\BaoCao_ThongKe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:52:35.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaoCao_ThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\.net\\Nhom13_QL_Shop_Ban_QuanAo\\Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo\\Forms\\BaoCao_ThongKe.cs",
+              "RelativeDocumentMoniker": "Nhom13_QLShopBanQuanAo\\Forms\\BaoCao_ThongKe.cs",
+              "ToolTip": "D:\\.net\\Nhom13_QL_Shop_Ban_QuanAo\\Nhom13_QLShopBanQuanAo\\Nhom13_QLShopBanQuanAo\\Forms\\BaoCao_ThongKe.cs [Design]",
+              "RelativeToolTip": "Nhom13_QLShopBanQuanAo\\Forms\\BaoCao_ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:52:30.039Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
